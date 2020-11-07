@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-11-07T18:00:08Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ECE_388_Schematic_v2"
+        },
+        "Owner": "Cameron Pasteris <cpasteris@umassd.edu>",
+        "Size": {
+            "X": 82.53,
+            "Y": 69.52
+        }
+    }
+}
